@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "dev": "vitepress dev contents",
+    "build": "vitepress build contents",
+    "preview": "vitepress preview contents"
+  },
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.22",
+    "vitepress-plugin-auto-sidebar": "^1.1.0",
+    "vitepress-sidebar": "^1.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7"
+  }
+}
