@@ -2,7 +2,7 @@
 
 
 <audio controls>
-  <source src="what-should-a-4-year-old-know.mp3" type="audio/mpeg">
+  <source src="/what-should-a-4-year-old-know.mp3" type="audio/mpeg">
 </audio>
 
 Một đứa trẻ 4 tuổi nên biết điều gì?
