@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general/what-should-a-4-year-old-know.md",
+                "file": "introduction/what-is-waldorf-education.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general/what-should-a-4-year-old-know.md",
+                "file": "introduction/what-is-waldorf-education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "general/what-should-a-4-year-old-know.md",
+                "file": "introduction/what-is-waldorf-education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "general/what-should-a-4-year-old-know.md"
+                "file": "introduction/what-is-waldorf-education.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "2631be1cfc690728",
   "lastOpenFiles": [
-    "introduction/a-timeless-approach.md",
-    "general/what-should-a-4-year-old-know.md",
+    "introduction/index.md",
+    "introduction/what-is-waldorf-education.md",
     "index.md",
-    "public/what-should-a-4-year-old-know.mp3",
-    "math/index.md"
+    "math/index.md",
+    "general/what-should-a-4-year-old-know.md",
+    "introduction/a-timeless-approach.md",
+    "public/what-should-a-4-year-old-know.mp3"
   ]
 }

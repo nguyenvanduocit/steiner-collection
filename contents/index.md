@@ -7,9 +7,6 @@ hero:
   tagline: Một số ghi chép về phương pháp giáo dục Steiner
   actions:
     - theme: brand
-      text: Introduction
-      link: /introduction/
-    - theme: secondary
-      text: School
-      link: /introduction/
+      text: A Timeless Approach
+      link: /introduction/a-timeless-approach
 ---

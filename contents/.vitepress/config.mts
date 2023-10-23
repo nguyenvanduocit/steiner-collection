@@ -1,5 +1,5 @@
 import {DefaultTheme, defineConfig} from 'vitepress'
-import { generateSidebar } from 'vitepress-sidebar';
+import {generateSidebar} from 'vitepress-sidebar';
 
 export default defineConfig({
     title: "Steiner Collection",
@@ -14,9 +14,15 @@ export default defineConfig({
         ['meta', {name: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg'}]
     ],
     themeConfig: {
+        search: {
+            provider: 'local'
+        },
         sidebar: generateSidebar({
-             documentRootPath: 'contents',
+            documentRootPath: 'contents',
             useTitleFromFileHeading: true,
+            hyphenToSpace: true,
+            capitalizeFirst: true,
+            collapsed: true,
         }) as DefaultTheme.SidebarItem[],
         nav: [
             {text: 'Home', link: '/'}
@@ -31,15 +37,6 @@ export default defineConfig({
         footer: {
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2019-present Evan You'
-        },
-
-        search: {
-            provider: 'algolia',
-            options: {
-                appId: '8J64VVRP8K',
-                apiKey: 'a18e2f4cc5665f6602c5631fd868adfd',
-                indexName: 'vitepress'
-            }
         },
     }
 })
