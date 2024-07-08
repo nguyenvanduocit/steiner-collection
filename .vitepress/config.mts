@@ -22,7 +22,6 @@ export default defineConfig({
             provider: 'local'
         },
         sidebar: generateSidebar({
-            documentRootPath: 'contents',
             useTitleFromFileHeading: true,
             hyphenToSpace: true,
             capitalizeFirst: true,

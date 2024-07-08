@@ -1,10 +1,5 @@
 # What Should A 4-Year-Old Know?
 
-
-<audio controls>
-  <source src="/what-should-a-4-year-old-know.mp3" type="audio/mpeg">
-</audio>
-
 Một đứa trẻ 4 tuổi nên biết điều gì?
 
 [https://www.huffpost.com/entry/what-should-a-4-year-old-know_b_3931921](https://www.huffpost.com/entry/what-should-a-4-year-old-know_b_3931921)
