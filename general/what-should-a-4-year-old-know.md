@@ -11,6 +11,8 @@ By Alicia Bayer, Contributor
 
 Tôi vừa đọc một bài đăng của một người mẹ trên diễn đàn dành cho phụ huynh, bà ấy lo lắng rằng đứa con 4 tuổi của mình không biết đủ nhiều. Cô hỏi: "Một đứa trẻ 4 tuổi nên biết điều gì?”
 
+[Giới thiệu về Waldorf](/introduction/what-is-waldorf-education.md)
+
 Hầu hết các câu trả lời đã khiến tôi không chỉ buồn bã mà còn khá khó chịu. Một người mẹ đã đăng một danh sách tất cả những điều mà con trai cô ấy biết. Đếm đến 100, các hành tinh, cách viết tên và họ của mình, v.v. Những người khác tham gia với việc con cái của họ đã biết nhiều hơn như thế nào, một số chỉ mới 3 tuổi. Một số ít đã đăng URL tới danh sách những gì mỗi lứa tuổi nên biết. Một số rất ít người nói rằng mỗi đứa trẻ phát triển theo nhịp độ của riêng mình và không cần lo lắng.
 
 Tôi rất bực bội khi thấy những người mẹ này trả lời một người mẹ đang lo lắng bằng danh sách tất cả những điều mà con cái của họ có thể làm mà con cô ấy không thể. Chúng ta có một nền văn hóa cạnh tranh đến mức ngay cả những đứa trẻ mẫu giáo của chúng ta cũng đã trở thành những chiếc cúp và quyền khoe khoang. Tuổi thơ không nên là một cuộc đua.

@@ -18,6 +18,7 @@ export default defineConfig({
         ['meta', {name: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg'}]
     ],
     themeConfig: {
+        logo: {src: '/logo.png', width: 24, height: 24},
         search: {
             provider: 'local'
         },
