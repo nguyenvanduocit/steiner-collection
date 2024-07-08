@@ -2,15 +2,19 @@ import {DefaultTheme, defineConfig} from 'vitepress'
 import {generateSidebar} from 'vitepress-sidebar';
 
 export default defineConfig({
-    title: "Steiner Collection",
-    description: "Collection about Steiner",
+    title: "Waldorf Collection",
+    description: "Collection about Waldorf Education",
     lastUpdated: true,
     cleanUrls: true,
+    lang: 'vi-VN',
+    sitemap: {
+        hostname: 'https://waldorf.onepercent.plus'
+    },
     head: [
         ['meta', {name: 'theme-color', content: '#5f67ee'}],
         ['meta', {name: 'og:type', content: 'website'}],
-        ['meta', {name: 'og:locale', content: 'en'}],
-        ['meta', {name: 'og:site_name', content: 'Steiner Collection'}],
+        ['meta', {name: 'og:locale', content: 'vi_VN'}],
+        ['meta', {name: 'og:site_name', content: 'Waldorf Collection'}],
         ['meta', {name: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg'}]
     ],
     themeConfig: {
@@ -28,7 +32,7 @@ export default defineConfig({
             {text: 'Home', link: '/'}
         ],
         socialLinks: [
-            {icon: 'github', link: 'https://twitter.com/steiner_collection'},
+            {icon: 'twitter', link: 'https://twitter.com/steiner_collection'},
         ],
         editLink: {
             pattern: 'https://github.com/nguyenvanduocit/steiner-collection/contents/:path',
@@ -36,7 +40,7 @@ export default defineConfig({
         },
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2019-present Evan You'
+            copyright: 'Copyright © 2019-present DuocNV'
         },
     }
 })
