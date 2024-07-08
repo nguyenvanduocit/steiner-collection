@@ -42,5 +42,13 @@ export default defineConfig({
             message: 'Released under the MIT License.',
             copyright: 'Copyright © 2019-present DuocNV'
         },
+    },
+    markdown: {
+        image: {
+            lazyLoading: true
+        },
+        toc: {
+            level: [1, 2]
+        }
     }
 })
