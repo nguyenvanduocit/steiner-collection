@@ -29,26 +29,12 @@ export default defineConfig({
         },
         sidebar: [
             {
-                text: 'Introduction',
-                items: [
-                    {
-                        text: 'What is Waldorf Education?',
-                        link: '/articles/what-is-waldorf-education'
-                    }
-                ]
+                text: 'Waldorf Education',
+                link: '/articles/what-is-waldorf-education'
             },
             {
-                text: 'Nội Dung',
-                items: [
-                    {
-                        text: 'Danh mục',
-                        link: '/articles'
-                    },
-                    {
-                        text: 'Bài viết mới',
-                        link: '/pages/bai-viet-moi'
-                    },
-                ]
+                text: 'Danh mục',
+                link: '/articles/'
             },
             {
                 text: 'About',
@@ -75,7 +61,7 @@ export default defineConfig({
             },
             {
                 text: 'Bài viết',
-                link: '/articles'
+                link: '/articles/'
             }
         ],
         socialLinks: [

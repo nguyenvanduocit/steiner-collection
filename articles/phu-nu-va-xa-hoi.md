@@ -2,11 +2,9 @@
 
 <!--@include: ./../parts/disclaim.md-->
 
-::: details English
-Woman and Society (Die Frauenfrag)
+::: tip TL;DR
+Rudolf Steiner nhấn mạnh rằng việc đối diện với những vấn đề xã hội và văn hóa quan trọng là cần thiết cho sự phát triển của Khoa học Tinh thần. Ông đề cập đến những tranh cãi lịch sử và hiện tại xung quanh quyền phụ nữ, đặc biệt trong giáo dục và nghề nghiệp, và khẳng định rằng phụ nữ đã chứng minh khả năng vượt qua những rào cản để thành công trong nhiều lĩnh vực.
 :::
-
-17 November 1906, Hamburg
 
 ::: details English
 It may perhaps seem strange that something like our theme today, which touches so strongly on current everyday issues, could be considered from the world-view of Spiritual Science, from a view of life and the world today which looks to the very greatest enigmas of human existence. In many circles which occupy themselves with Spiritual Science, or in such circles as have heard something of the spirit in this world-outlook, there is the view that Spiritual Science is something that does not concern itself in any way with current questions, with the interests of immediate life. People believe—some as a reproach to the Theosophical movement, and others seeing this as one of its advantages—that Spiritual Science concerns itself only with the great questions of Eternity, that it holds itself aloof from everyday events. People consider it, in both a good and a bad sense, to be something unpractical. But if, in our time, Spiritual Science is to fulfill a task, a mission, then it must take hold of what moves the heart, it must be able to take up a position with regard to those questions which play into our day-to-day thinking and into our day-to-day striving and hope.

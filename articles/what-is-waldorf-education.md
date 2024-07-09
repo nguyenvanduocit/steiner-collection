@@ -1,5 +1,9 @@
 # Giáo dục Steiner Waldorf
 
+::: tip TL;DR
+Phương pháp này chú trọng vào việc phát triển toàn diện về thể chất, cảm xúc, xã hội và nhận thức của trẻ em qua các hoạt động hàng ngày và chơi tự do. Trẻ em học thông qua trải nghiệm và bắt chước, không bị áp lực thi đua hay sử dụng công nghệ số sớm. Mục tiêu là tạo ra một môi trường học tập yên bình và bền vững, giúp trẻ khám phá và phát triển tự nhiên.
+:::
+
 **Phương pháp giáo dục Steiner Waldorf** dựa trên những ý tưởng của nhà triết học người Áo Rudolf Steiner vào đầu thế kỷ 20 về cách giáo dục trẻ em, giúp các em có thể trở thành chính mình, có khả năng tự lựa chọn cuộc sống, đóng góp tích cực cho xã hội và trở thành một lực lượng mạnh mẽ vì điều tốt đẹp trên thế giới.
 
 ::: details English
