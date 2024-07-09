@@ -1,2 +1,2 @@
-contents/.vitepress/dist
-contents/.vitepress/cache
+.vitepress/dist
+.vitepress/cache

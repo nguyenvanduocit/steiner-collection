@@ -1,11 +1,36 @@
+---
+originalUrl: https://www.huffpost.com/entry/what-should-a-4-year-old-know_b_3931921
+author: Alicia Bayer
+---
+
 # Một đứa trẻ 4 tuổi nên biết điều gì?
 
-[https://www.huffpost.com/entry/what-should-a-4-year-old-know_b_3931921](https://www.huffpost.com/entry/what-should-a-4-year-old-know_b_3931921)
+::: details TL;DR
+**Điều Quan Trọng Nhất**
+
+Điều quan trọng nhất mà một đứa trẻ 4 tuổi nên biết là chúng được yêu thương và an toàn, thay vì bị ép buộc đạt được các mục tiêu học tập quá sớm.
+
+**Tóm Tắt**
+
+- Bài viết nói về một người mẹ lo lắng rằng con mình 4 tuổi không biết đủ.
+- Xã hội thường biến thành tựu của trẻ em thành lý do để khoe khoang, gây ra sự cạnh tranh không cần thiết.
+- Tuổi thơ không nên là một cuộc đua; mỗi đứa trẻ phát triển theo nhịp độ riêng của mình.
+- Những điều quan trọng mà một đứa trẻ 4 tuổi nên biết:
+  - Chúng luôn được yêu thương và an toàn.
+  - Chúng nên tin tưởng vào cảm xúc của mình và biết rõ quyền lợi của mình.
+  - Được phép sáng tạo và theo đuổi sở thích, ngay cả khi chúng khác biệt.
+  - Thế giới thật tuyệt vời và chúng cũng vậy.
+- Cha mẹ nên biết:
+  - Trẻ em học với tốc độ khác nhau, điều này không ảnh hưởng đến thành công lâu dài.
+  - Đọc sách cho trẻ là cách tốt nhất để nâng cao học tập của chúng.
+  - Một tuổi thơ đơn giản, hạnh phúc quan trọng hơn là trở thành người thông minh nhất.
+  - Trẻ cần tiếp cận sách, thiên nhiên, dụng cụ nghệ thuật, và sự tự do khám phá.
+  - Thời gian và sự chú ý của cha mẹ quý giá hơn đồ chơi.
+- Có những mốc học tập tiêu biểu cho từng độ tuổi, nhưng không nên là những quy tắc nghiêm ngặt.
+- Việc học nên vui vẻ và là một phần của cuộc sống hàng ngày.
+:::
 
 > We are such a competitive culture that even our preschoolers have become trophies and bragging rights. Childhood shouldn't be a race.
-> 
-
-By Alicia Bayer, Contributor
 
 Tôi vừa đọc một bài đăng của một người mẹ trên diễn đàn dành cho phụ huynh, bà ấy lo lắng rằng đứa con 4 tuổi của mình không biết đủ nhiều. Cô hỏi: "Một đứa trẻ 4 tuổi nên biết điều gì?”
 

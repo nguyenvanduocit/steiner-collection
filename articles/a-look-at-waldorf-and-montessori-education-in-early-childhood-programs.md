@@ -13,6 +13,8 @@ head:
 
 # Cái nhìn về Giáo dục Waldorf và Montessori trong Chương trình Mầm non
 
+<!--@include: ./../parts/disclaim.md-->
+
 So sánh này về triết lý giáo dục Waldorf và Montessori dựa trên kinh nghiệm cá nhân của tôi với tư cách là một giáo viên trong cả hai hệ thống trường Montessori và Waldorf. Tôi muốn mở đầu bằng cách nhấn mạnh rằng có thể có nhiều sự khác biệt từ lớp học này đến lớp học khác trong bất kỳ triết lý nào, do phong cách và cách diễn giải của từng giáo viên.
 
 Mặc dù cả hai triết lý đều coi trọng và tôn kính trẻ nhỏ, nhưng có một số điểm khác biệt giữa Waldorf và Montessori, bao gồm cách tiếp cận với việc chơi, tưởng tượng, đồ chơi, phát triển xã hội, cấu trúc và trật tự, cũng như trí tuệ.
@@ -106,7 +108,7 @@ A child longs for rhythm and order in his world. Both Waldorf and Montessori rec
 Intellectual development
 :::
 
-Montessori coi trẻ em như có một trí óc nhạy bén, sẵn sàng tiếp thu kiến thức và kinh nghiệm như bọt biển. Lý thuyết là, bằng cách cung cấp cho trẻ các nhiệm vụ trí tuệ ngày càng thách thức từ khi còn nhỏ, bạn sẽ có một đứa trẻ có học thức. Waldorf không tin rằng đây là cách tiếp cận tốt nhất để giáo dục trẻ nhỏ.
+Montessori cho rằng trẻ em có một trí óc nhạy bén (absorbent mind), sẵn sàng tiếp thu kiến thức và kinh nghiệm như bọt biển. Lý thuyết là, bằng cách cung cấp cho trẻ các nhiệm vụ trí tuệ ngày càng thách thức từ khi còn nhỏ, bạn sẽ có một đứa trẻ có học thức. Waldorf không tin rằng đây là cách tiếp cận tốt nhất để giáo dục trẻ nhỏ.
 
 ::: details English
 Montessori sees the child as having an absorbent mind, ready to soak up knowledge and experience like a sponge, the theory is that, by supplying a child with ever more challenging intellectual tasks from an early age, you will end up with an educated child. Waldorf does not believe this is the healthiest way to approach the education of young children.
@@ -118,7 +120,7 @@ Thay vì đặt trọng tâm vào trí tuệ từ sớm, Waldorf tìm cách nuô
 Rather than introducing an early intellectual focus. Waldorf instead seeks to nourish and  keep alive the young child's healthy imagination and creative thinking powers. The child’s intellectual potential lies within, and it unfolds slowly, like petals of a maturing flower, as the child moves from one developmental stage to the next.
 :::
 
-Trong các lớp học mầm non Waldorf, chúng tôi không tìm cách tạo ra những bông hoa trí tuệ sớm nở, dù những bông hoa này có thể được đánh giá cao. Chúng tôi từ bỏ sự hài lòng tức thời đó, và tập trung vào lợi ích lâu dài của mỗi trẻ, bảo vệ tuổi thơ của trẻ, với mục tiêu là trở thành những người trưởng thành khỏe mạnh và toàn diện trong tương lai.
+Trong các lớp học mầm non Waldorf, chúng tôi không cố gắng tạo ra những đứa trẻ thông minh vượt trội từ sớm, dù điều này có thể được đánh giá cao. Thay vào đó, chúng tôi tập trung vào lợi ích lâu dài của trẻ, bảo vệ tuổi thơ của chúng, nhằm giúp các em trở thành những người trưởng thành khỏe mạnh và toàn diện trong tương lai.
 
 ::: details English
 In Waldorf early childhood classrooms we do not seek to produce premature flowers of intellectual learning, much as these flowers might find appreciation. We rather forgo such immediate satisfaction, and focus our attentions upon each child’s ultimate good, and upon the protection of his/her childhood, with the goal of a healthy, well-rounded adult in the future.
@@ -146,5 +148,4 @@ Pearce. Joseph Chilton, Magical Child New York: Bantam Books. 1977.
 
 Piaget, Jean, Flay. Dreams & Imitation in Childhood New York: W.W. Norton & Co., 1962
 
-> [!info]
-> This article was edited with special thanks to Jim Schaeffer and Lisa White
+This article was edited with special thanks to Jim Schaeffer and Lisa White
