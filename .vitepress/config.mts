@@ -82,7 +82,7 @@ export default defineConfig({
             {icon: 'twitter', link: 'https://twitter.com/steiner_collection'},
         ],
         editLink: {
-            pattern: 'https://github.com/nguyenvanduocit/steiner-collection/contents/:path',
+            pattern: 'https://github.com/nguyenvanduocit/steiner-collection/:path',
             text: 'Edit this page on GitHub'
         },
         footer: {
