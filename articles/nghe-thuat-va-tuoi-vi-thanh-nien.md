@@ -5,7 +5,7 @@ originalUrl: https://www.waldorflibrary.org/articles/725-art-and-the-adolescent
 
 # Nghệ Thuật và tuổi vị thành niên
 
-::: details TL;DR:
+::: tip TL;DR:
 
 **Summary**
 
