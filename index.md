@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -11,10 +10,10 @@ hero:
   actions:
     - theme: brand
       text: Bắt đầu
-      link: /introduction/what-is-waldorf-education
+      link: /articles/what-is-waldorf-education
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Danh Mục
+      link: /articles
 features:
   - icon:
       src: /icons/language-94.png

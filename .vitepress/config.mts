@@ -1,15 +1,20 @@
-import {DefaultTheme, defineConfig} from 'vitepress'
-import {generateSidebar} from 'vitepress-sidebar';
+import {defineConfig} from 'vitepress'
+
 
 export default defineConfig({
     title: "Waldorf Collection",
     description: "Collection about Waldorf Education",
     lastUpdated: true,
     cleanUrls: true,
+    metaChunk: true,
     lang: 'vi-VN',
     sitemap: {
         hostname: 'https://waldorf.onepercent.plus'
     },
+    ignoreDeadLinks: [
+        '/parts'
+    ],
+    srcExclude: ['/parts/**/*.md'],
     head: [
         ['meta', {name: 'theme-color', content: '#5f67ee'}],
         ['meta', {name: 'og:type', content: 'website'}],
@@ -22,14 +27,56 @@ export default defineConfig({
         search: {
             provider: 'local'
         },
-        sidebar: generateSidebar({
-            useTitleFromFileHeading: true,
-            hyphenToSpace: true,
-            capitalizeFirst: true,
-            collapsed: true,
-        }) as DefaultTheme.SidebarItem[],
+        sidebar: [
+            {
+                text: 'Introduction',
+                items: [
+                    {
+                        text: 'What is Waldorf Education?',
+                        link: '/articles/what-is-waldorf-education'
+                    }
+                ]
+            },
+            {
+                text: 'Nội Dung',
+                items: [
+                    {
+                        text: 'Danh mục',
+                        link: '/articles'
+                    },
+                    {
+                        text: 'Bài viết mới',
+                        link: '/pages/bai-viet-moi'
+                    },
+                ]
+            },
+            {
+                text: 'About',
+                items: [
+                    {
+                        text: 'About me',
+                        link: '/pages/about'
+                    },
+                    {
+                        text: 'Contributing',
+                        link: '/pages/contributing'
+                    },
+                    {
+                        text: 'License',
+                        link: '/pages/license'
+                    }
+                ]
+            },
+        ],
         nav: [
-            {text: 'Home', link: '/'}
+            {
+                text: 'Home',
+                link: '/'
+            },
+            {
+                text: 'Bài viết',
+                link: '/articles'
+            }
         ],
         socialLinks: [
             {icon: 'twitter', link: 'https://twitter.com/steiner_collection'},
@@ -49,6 +96,6 @@ export default defineConfig({
         },
         toc: {
             level: [1, 2]
-        }
+        },
     }
 })

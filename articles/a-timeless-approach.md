@@ -1,6 +1,10 @@
+---
+date: 2021-09-01T00:00:00+07:00
+---
+
 # A Timeless Approach
 
-Giáo dục Steiner Waldorf, một phương pháp giáo dục có hơn 100 năm lịch sử, ra đời dưới sự sáng lập của nhà triết học và giáo dục người Áo, Rudolf Steiner. Mục tiêu chính của phương pháp này là khuyến khích học sinh phát triển "suy nghĩ sáng suốt, cảm xúc nhạy bén và ý chí mạnh mẽ." Ông Emil Molt, giám đốc nhà máy thuốc lá Waldorf-Astoria ở Stuttgart, đã truyền cảm hứng sau khi lắng nghe các bài giảng của Steiner về giáo dục công nhân. Ông đã đề nghị thành lập một trường họcdành cho con cái của công nhân, và kết quả là vào năm 1919, trường Waldorf đầu tiên đã được thành lập. Ngày nay, hơn 1.000 trường học và gần 2.000 trường mẫu giáo theo phương pháp Steiner Waldorf đã xuất hiện tại hơn 65 quốc gia, phục vụ trẻ em từ sơ sinh đến 18 tuổi.
+[Giáo dục Steiner Waldorf](./what-is-waldorf-education.md), một phương pháp giáo dục có hơn 100 năm lịch sử, ra đời dưới sự sáng lập của nhà triết học và giáo dục người Áo, Rudolf Steiner. Mục tiêu chính của phương pháp này là khuyến khích học sinh phát triển "suy nghĩ sáng suốt, cảm xúc nhạy bén và ý chí mạnh mẽ." Ông Emil Molt, giám đốc nhà máy thuốc lá Waldorf-Astoria ở Stuttgart, đã truyền cảm hứng sau khi lắng nghe các bài giảng của Steiner về giáo dục công nhân. Ông đã đề nghị thành lập một trường họcdành cho con cái của công nhân, và kết quả là vào năm 1919, trường Waldorf đầu tiên đã được thành lập. Ngày nay, hơn 1.000 trường học và gần 2.000 trường mẫu giáo theo phương pháp Steiner Waldorf đã xuất hiện tại hơn 65 quốc gia, phục vụ trẻ em từ sơ sinh đến 18 tuổi.
 
 Theo quan điểm của Rudolf Steiner, quá trình phát triển của trẻ em được chia thành từng giai đoạn 7 năm. Giai đoạn thơ ấu (7 năm đầu tiên) bao gồm việc nuôi dạy và chăm sóc con cái tại nhà, cùng với giai đoạn mang thai. Nó bao gồm các nhóm trẻ sơ sinh, có thể áp dụng phương pháp Pikler, và cả các nhóm cha mẹ và trẻ em (từ khi trẻ mới sinh đến 3 tuổi). Đây cũng là thời kỳ các nhóm chơi, nhóm trẻ mẫu giáo (dành cho trẻ từ 2 đến 4 tuổi) xuất hiện. Trước khi bắt đầu chính thức học mẫu giáo (từ 3 đến 6 tuổi trở lên), trẻ em có thể tham gia nhà trẻ và chương trình chăm sóc, nơi họ sẽ làm quen với phương pháp giáo dục Steiner Waldorf.
 
