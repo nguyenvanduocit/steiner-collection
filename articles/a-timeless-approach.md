@@ -1,5 +1,11 @@
 ---
-date: 2021-09-01T00:00:00+07:00
+head:
+  - - meta
+    - name: description
+      content: "Giáo dục Steiner Waldorf, một phương pháp giáo dục toàn diện nhấn mạnh vào sự phát triển tự nhiên và toàn diện của trẻ, từ sự nuôi dưỡng trí tưởng tượng đến kỹ năng sống."
+  - - meta
+    - name: keywords
+      content: "giáo dục Steiner Waldorf, phát triển trẻ em, giáo dục toàn diện, phương pháp giáo dục, trí tưởng tượng, kỹ năng sống"
 ---
 
 # A Timeless Approach

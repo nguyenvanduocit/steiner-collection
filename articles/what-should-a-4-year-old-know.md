@@ -1,8 +1,14 @@
 ---
 originalUrl: https://www.huffpost.com/entry/what-should-a-4-year-old-know_b_3931921
 author: Alicia Bayer
+head:
+  - - meta
+    - name: description
+      content: "Bài viết này khám phá những gì một đứa trẻ 4 tuổi nên biết, nhấn mạnh vào tình yêu, sự an toàn và sự phát triển tự nhiên thay vì áp đặt mục tiêu học tập."
+  - - meta
+    - name: keywords
+      content: "phát triển trẻ em, giáo dục sớm, tình yêu, sự an toàn, học tập tự nhiên"
 ---
-
 # Một đứa trẻ 4 tuổi nên biết điều gì?
 
 ::: details TL;DR

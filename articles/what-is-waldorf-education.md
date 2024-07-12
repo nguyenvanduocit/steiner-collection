@@ -1,3 +1,13 @@
+---
+head:
+  - - meta
+    - name: description
+      content: "Khám phá phương pháp giáo dục Steiner Waldorf: một cách tiếp cận toàn diện cho sự phát triển thể chất, cảm xúc, xã hội và nhận thức của trẻ em thông qua hoạt động hàng ngày và chơi tự do."
+  - - meta
+    - name: keywords
+      content: "giáo dục Steiner Waldorf, phát triển toàn diện, học thông qua trải nghiệm, không áp lực thi đua, giáo dục mầm non chất lượng"
+---
+
 # Giáo dục Steiner Waldorf
 
 ::: tip TL;DR

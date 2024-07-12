@@ -1,6 +1,13 @@
 ---
 author: Ted Roberts
 originalUrl: https://www.waldorflibrary.org/articles/725-art-and-the-adolescent
+head:
+  - - meta
+    - name: description
+      content: "Giáo dục nghệ thuật trong các trường Waldorf giúp thanh thiếu niên vượt qua những xáo trộn nội tâm và thách thức xã hội bằng cách khơi gợi sự sáng tạo, cân bằng và hiểu biết sâu sắc hơn về bản thân và thế giới xung quanh."
+  - - meta
+    - name: keywords
+      content: "giáo dục nghệ thuật, trường Waldorf, thanh thiếu niên, sự sáng tạo, cân bằng, hiểu biết sâu sắc, xáo trộn nội tâm, thách thức xã hội"
 ---
 
 # Nghệ Thuật và tuổi vị thành niên

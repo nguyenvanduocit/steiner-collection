@@ -1,3 +1,13 @@
+---
+head:
+  - - meta
+    - name: description
+      content: "Rudolf Steiner nhấn mạnh việc đối diện với những vấn đề xã hội và văn hóa quan trọng là cần thiết cho sự phát triển của Khoa học Tinh thần, bao gồm cả những tranh cãi xung quanh quyền phụ nữ trong giáo dục và nghề nghiệp."
+  - - meta
+    - name: keywords
+      content: "Rudolf Steiner, Khoa học Tinh thần, quyền phụ nữ, giáo dục, nghề nghiệp, vấn đề xã hội, văn hóa"
+---
+
 # Phụ nữ và Xã hội
 
 <!--@include: ./../parts/disclaim.md-->

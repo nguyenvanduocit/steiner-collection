@@ -83,5 +83,8 @@ export default defineConfig({
         toc: {
             level: [1, 2]
         },
+    },
+    vite: {
+        
     }
 })
