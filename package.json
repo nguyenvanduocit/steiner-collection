@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
-    "@vite-pwa/vitepress": "^0.5.0"
+    "@vite-pwa/vitepress": "^0.5.0",
+    "stylus": "^0.63.0"
   }
 }

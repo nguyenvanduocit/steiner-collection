@@ -1,6 +1,15 @@
 import {defineConfig} from 'vitepress'
 import { withPwa } from '@vite-pwa/vitepress'
 
+const themeColor = '#5f67ee'
+
+function getBuildTime() {
+    const date = new Date();
+    const formattedDate = date.toISOString().split('T')[0]; // YYYY-MM-DD
+    const formattedTime = date.toTimeString().split(' ')[0].slice(0, 5); // HH:MM
+    return `${formattedDate} ${formattedTime}`;
+}
+
 export default withPwa(defineConfig({
     title: "Waldorf Collection",
     description: "Collection about Waldorf Education",
@@ -16,11 +25,12 @@ export default withPwa(defineConfig({
     ],
     srcExclude: ['/parts/**/*.md'],
     head: [
-        ['meta', {name: 'theme-color', content: '#5f67ee'}],
+        ['meta', {name: 'theme-color', content: themeColor}],
         ['meta', {name: 'og:type', content: 'website'}],
         ['meta', {name: 'og:locale', content: 'vi_VN'}],
         ['meta', {name: 'og:site_name', content: 'Waldorf Collection'}],
-        ['meta', {name: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg'}]
+        ['meta', {name: 'og:image', content: 'https://vitepress.dev/vitepress-og.jpg'}],
+        ['link', {rel: 'icon', href: '/logo.png', type: 'image/png'}],
     ],
     themeConfig: {
         logo: {src: '/logo.png', width: 24, height: 24},
@@ -72,7 +82,7 @@ export default withPwa(defineConfig({
             text: 'Edit this page on GitHub'
         },
         footer: {
-            message: 'Released under the MIT License.',
+            message: 'MIT License. ' + getBuildTime(),
             copyright: 'Copyright © 2019-present DuocNV'
         },
     },
@@ -90,7 +100,7 @@ export default withPwa(defineConfig({
     pwa: {
         registerType: 'autoUpdate',
         manifest: {
-            theme_color: '#5f67ee',
+            theme_color: themeColor,
         }
     }
 }))

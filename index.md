@@ -28,27 +28,6 @@ features:
     title: Human centric
     details: Bất kể tôn giáo, đức tin của bạn là gì, chúng tôi tin rằng, trong giáo dục con người thì con người phải là trung tâm.
 ---
-<style lang="css">
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-  --vp-home-hero-image-filter: blur(44px);
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
-}
-</style>
 
 ## New Articles
 

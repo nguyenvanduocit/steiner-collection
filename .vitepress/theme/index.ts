@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme'
+import './style.styl'
 import ArticleList from './components/ArticleList.vue'
 import {App} from "@vue/runtime-core";
 import ArticleSource  from "./components/ArticleSource.vue";
