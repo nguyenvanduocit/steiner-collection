@@ -1,7 +1,7 @@
 import {defineConfig} from 'vitepress'
+import { withPwa } from '@vite-pwa/vitepress'
 
-
-export default defineConfig({
+export default withPwa(defineConfig({
     title: "Waldorf Collection",
     description: "Collection about Waldorf Education",
     lastUpdated: true,
@@ -85,6 +85,12 @@ export default defineConfig({
         },
     },
     vite: {
-        
+
+    },
+    pwa: {
+        registerType: 'autoUpdate',
+        manifest: {
+            theme_color: '#5f67ee',
+        }
     }
-})
+}))

@@ -22,7 +22,7 @@ features:
   - icon:
       src: /icons/test-passed-94.png
     title: Trung đạo
-    details: Khi thấy sự cực đoan, chúng tôi tin rằng giáo dục cần phải trung đạo, không quá cứng nhắc, không quá lỏng lẻo. Sự giáo dục đúng giống như đi trên chỉ mảnh, không thể quá chặt, cũng không thể quá lỏng. Thiếu một chút, thừa một chút đều không tốt.
+    details: Chúng tôi tin rằng giáo dục cần phải trung đạo, không quá cứng nhắc, không quá lỏng lẻo. Sự giáo dục đúng giống như đi trên chỉ mảnh, không thể quá chặt, cũng không thể quá lỏng. Thiếu một chút, thừa một chút đều không tốt.
   - icon:
       src: /icons/plant-94.png
     title: Human centric
