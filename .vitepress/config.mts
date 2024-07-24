@@ -98,7 +98,8 @@ export default withPwa(defineConfig({
 
     },
     pwa: {
-        registerType: 'autoUpdate',
+        registerType: 'prompt',
+        injectRegister: 'auto',
         manifest: {
             theme_color: themeColor,
         }
