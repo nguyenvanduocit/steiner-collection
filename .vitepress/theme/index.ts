@@ -2,17 +2,19 @@ import DefaultTheme from 'vitepress/theme'
 import './style.styl'
 import ArticleList from './components/ArticleList.vue'
 import {App} from "@vue/runtime-core";
-import ArticleSource  from "./components/ArticleSource.vue";
-import { h } from 'vue'
+import ArticleSource from "./components/ArticleSource.vue";
+import {h} from 'vue'
+import ReloadPrompt from './components/ReloadPrompt.vue'
 
 export default {
-  extends: DefaultTheme,
-  enhanceApp({ app }: {app: App}) {
-    app.component('ArticleList', ArticleList)
-  },
-  Layout() {
-    return h(DefaultTheme.Layout, null, {
-      'doc-footer-before': () => h(ArticleSource),
-    })
-  }
+    extends: DefaultTheme,
+    enhanceApp({app}: { app: App }) {
+        app.component('ArticleList', ArticleList)
+    },
+    Layout() {
+        return h(DefaultTheme.Layout, null, {
+            'doc-footer-before': () => h(ArticleSource),
+            'layout-bottom': () => h(ReloadPrompt)
+        })
+    }
 }
