@@ -98,10 +98,12 @@ export default withPwa(defineConfig({
 
     },
     pwa: {
-        registerType: 'prompt',
+        registerType: 'autoUpdate',
         injectRegister: 'auto',
         manifest: {
             theme_color: themeColor,
+            display: 'standalone',
+            lang: 'vi-VN',
         }
     }
 }))
