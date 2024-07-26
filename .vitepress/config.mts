@@ -37,16 +37,16 @@ export default withPwa(defineConfig({
         search: {
             provider: 'local'
         },
-        sidebar: [
+        nav: [
             {
                 text: 'Waldorf Education',
                 link: '/articles/what-is-waldorf-education'
             },
             {
-                text: 'Danh mục',
+                text: 'Bài viết',
                 link: '/articles/'
             },
-            {
+             {
                 text: 'About',
                 items: [
                     {
@@ -63,16 +63,6 @@ export default withPwa(defineConfig({
                     }
                 ]
             },
-        ],
-        nav: [
-            {
-                text: 'Home',
-                link: '/'
-            },
-            {
-                text: 'Bài viết',
-                link: '/articles/'
-            }
         ],
         socialLinks: [
             {icon: 'twitter', link: 'https://twitter.com/steiner_collection'},
