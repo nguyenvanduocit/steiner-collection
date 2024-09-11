@@ -63,6 +63,15 @@ export default withPwa(defineConfig({
                     }
                 ]
             },
+            {
+                text: 'Community',
+                items: [
+                    {
+                        text: "Mẹ Dạy Bé",
+                        link: 'https://medaybe.com'
+                    }
+                ]
+            }
         ],
         socialLinks: [
             {icon: 'twitter', link: 'https://twitter.com/steiner_collection'},
